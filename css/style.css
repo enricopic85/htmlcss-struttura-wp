@@ -22,7 +22,7 @@ nav{
     background-color: rgb(0, 217, 255);
     border: 1px solid black;
 }
-.float::after{
+.row::after{
     clear: both;
     display: table;
     content: "";
