@@ -27,7 +27,7 @@ nav{
     display: table;
     content: "";
 }
-.float{
+.row{
     background-color: blue;
     height: 400px;
 }
